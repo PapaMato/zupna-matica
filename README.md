@@ -1,2 +1,2 @@
-# zupns-matica
+# zupna-matica
 52331534
